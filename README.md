@@ -2,7 +2,7 @@
 
 Apaixonada por tecnologias: Code & LowCode & NoCode, e novas formas mais eficientes de se fazer as coisas. 
 
-💼
+- 💼
 > Formada em **Administração** desde 2018.
 -
 👩‍💻 
