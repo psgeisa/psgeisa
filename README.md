@@ -1,6 +1,6 @@
 # Oi, eu sou  a Geisa! 
 
-Apaixonada por tecnologias, e novas formas, mais eficientes de se fazer alguma coisa. 
+Apaixonada por tecnologias: Code & LowCode & NoCode, e novas formas mais eficientes de se fazer as coisas. 
 
 > 💼 Formada em **Administração** desde 2018.
 -
@@ -8,6 +8,6 @@ Apaixonada por tecnologias, e novas formas, mais eficientes de se fazer alguma c
 -
 > 🐍 Minha linguagem de programação preferida é **python**.
 -
-> ☕ Aprendendo **Java**.
+> ☕ Mas estou aprendendo a programar em **Java** também.
 -
-> 🚀 Aspirante a PowerPlatform, Office365!
+> 🚀 Aspirante a PowerPlatform, Office365: PowerApps & PowerAutomate & PowerBi!
