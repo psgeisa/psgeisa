@@ -5,10 +5,6 @@ Apaixonada por tecnologias: Code & LowCode & NoCode, e novas formas mais eficien
 
 > 💼 Formada em **Administração** desde 2018.
 > 
-> 👩‍💻 Estudante de **Ciências da Computação** desde 2020. 
+> 👩‍💻 Formada em **Ciências da Computação** desde 2023. 
 > 
-> 🐍 Minha linguagem de programação preferida é **python**.
-> 
-> ☕ Mas estou aprendendo a programar em **Java** também.
-> 
-> 🚀 Aspirante a PowerPlatform, Office365: PowerApps & PowerAutomate & PowerBi!
+
