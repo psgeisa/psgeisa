@@ -3,7 +3,7 @@
 💡 Technology professional specialized in Data Science, Cloud, Analytics Engineering and AI-driven solutions.
 ##
 👩‍💻 Computer Science — 2023 | 💼 Business Administration — 2018 <br>
-☁️ Data & AI | FinOps | Azure | Foundry | Databricks | Machine Learning <br>
+☁️ Data & AI | FinOps | Azure | Foundry | Databricks | Git | Machine Learning <br>
 🧠 NLP | RAG | LLM | Analytics Engineering | AI Solutions 
 ## 
 📜 Cloud & Data Certifications
