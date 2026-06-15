@@ -7,6 +7,7 @@
 🧠 NLP | RAG | LLM | Analytics Engineering | AI Solutions 
 ## 
 📜 Cloud & Data Certifications
+- FinOps Certified Practitioner
 - Microsoft Azure
 - Microsoft AI
 - Google Cloud
