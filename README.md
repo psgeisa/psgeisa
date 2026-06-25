@@ -19,7 +19,7 @@
 - Biblical NLP Platform
 
 # Portfolio
-![whoami](https://portfolio-gamma-two-j3ogrq9zaj.vercel.app/)
+[whoami](https://portfolio-gamma-two-j3ogrq9zaj.vercel.app/)
 
   <p align="left">
   <img src="https://skillicons.dev/icons?i=python,azure,gcp" />
