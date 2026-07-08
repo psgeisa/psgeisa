@@ -17,7 +17,9 @@
 - Data Analytics
 
 ## 🚀 Featured Project:
+- App Gestão de Pessoas
 - App Gestão de Suprimentos
+- ModelsAI (constructing)
 - Biblical NLP Platform
 
 Portfolio
